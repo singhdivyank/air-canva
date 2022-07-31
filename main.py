@@ -15,8 +15,6 @@ g_index = 0
 r_index = 0
 y_index = 0
 
-# kernel = np.ones((5, 5), np.uint8)  # defining the kernel
-
 colors = [(255, 0, 0), (0, 255, 0), (0, 0, 255), (0, 255, 255)]  # in rgb format
 index = 0  # pointer for colors array
 
